@@ -21,7 +21,7 @@ The robotic fish developed was mainly used for children's education and entertai
 
 
 ### Install:
-- Firstly, the body structure of the robot fish is printed by 3D printing.
+- Download or design any similar three-joint robotic fish model and implement it (e.g., 3D printing)
 - Download the code Robotic-Fish-with-Arduino/BT_roboFishtest/BT_roboFishtest.ino to the Arduino board(for example UNO).
 - Download the app Robotic-Fish-with-Arduino/Android control apk/Roboticfish.apk to the your phone or pad(noly for Android)
 - Run the Roboticfish app on your phone or pad.

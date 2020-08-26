@@ -27,6 +27,7 @@ The robotic fish developed was mainly used for children's education and entertai
 - Run the Roboticfish app on your phone or pad.
 <p align="center"><img style="border:0.2px solid black;"              src="https://github.com/leewenqing/Robotic-Fish-with-Arduino/blob/master/pic/ea2db3cc7a15aa6c72d41bff0aaf522.jpg" alt="Android app"></p>
                <figcaption align="center"><strong>Fig 2.</strong><em> Android app for control.</em></figcaption>
+               
 - Click the Connect button to select the Bluetooth name of the robot fish. 
 - Click the Connect button to select the Bluetooth name of the robot fish.   
 - When the intermediate connection status is displayed as "connected", the robot fish can be controlled by the command below.

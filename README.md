@@ -22,8 +22,8 @@ The robotic fish developed was mainly used for children's education and entertai
 
 ### Install:
 - Download or design any similar three-joint robotic fish model and implement it (e.g., 3D printing)
-- Download the code Robotic-Fish-with-Arduino/BT_roboFishtest/BT_roboFishtest.ino to the Arduino board(for example UNO).
-- Download the app Robotic-Fish-with-Arduino/Android control apk/Roboticfish.apk to the your phone or pad(noly for Android)
+- Download the code Robotic-Fish-with-Arduino/BT_roboFishtest/BT_roboFishtest.ino to the Arduino board (for example UNO).
+- Download the app Robotic-Fish-with-Arduino/Android control apk/Roboticfish.apk to the your phone or pad (noly for Android)
 - Run the Roboticfish app on your phone or pad.
 <p align="center"><img style="border:0.2px solid black;"              src="https://github.com/leewenqing/Robotic-Fish-with-Arduino/blob/master/pic/ea2db3cc7a15aa6c72d41bff0aaf522.jpg" alt="Android app"></p>
                <figcaption align="center"><strong>Fig 2.</strong><em> Android app for control.</em></figcaption>
